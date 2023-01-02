@@ -1,0 +1,33 @@
+.box-identity {
+    border: 2px solid salmon;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+    margin-top: 4%;
+    background-color: aliceblue;
+}
+
+body {
+    background-image: url("../images/heart.jpg");
+    background-repeat: repeat;
+    background-size: 80px;
+}
+
+.button-box {
+    margin-top: 20%;
+    margin-left: 274px;
+    margin-right: auto;
+}
+
+.text-box {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.img-box {
+    width: 470px;
+    height: 250px;
+    padding-top: 20px;
+    margin-left: 60px;
+}
